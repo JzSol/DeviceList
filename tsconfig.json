@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "outDir": "./Release/",
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es6",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "lib": ["dom", "es6", "dom.iterable", "scripthost"]
+  }
+}
